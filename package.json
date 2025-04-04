@@ -1,6 +1,6 @@
 {
-    "name": "solo",
-    "description": "A Ghost theme",
+    "name": "ghost-solo-yuzu",
+    "description": "ghost solo theme by yuzu",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -8,9 +8,9 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "yuzu jin",
+        "email": "i@9902259.xyz",
+        "url": "https://9902259.xyz"
     },
     "keywords": [
         "ghost",
